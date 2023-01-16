@@ -1,4 +1,5 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=johanfrykebrant&layout=compact)
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=johanfrykebrant&theme=highcontrast&show_icons=true&count_private=true)
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=johanfrykebrant&show_icons=true" />
+</details>
