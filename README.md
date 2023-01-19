@@ -1,5 +1,5 @@
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=johanfrykebrant&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&layout=compact" alt="Gift's language"/>
- 
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=johanfrykebrant&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Gift's language"/>
+
 ## My Toolbox 
 <p style='text-align: right;'>
   
